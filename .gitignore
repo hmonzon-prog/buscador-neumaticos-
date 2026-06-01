@@ -1,0 +1,11 @@
+# Windows
+Thumbs.db
+Desktop.ini
+*.lnk
+*.url
+
+# Python
+__pycache__/
+*.pyc
+
+
